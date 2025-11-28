@@ -1,0 +1,8 @@
+scikit-learn==1.7.2
+streamlit==1.51.0
+joblib
+openpyxl
+pandas
+numpy
+matplotlib
+seaborn
